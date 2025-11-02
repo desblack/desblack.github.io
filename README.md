@@ -11,10 +11,10 @@ Results-driven Technical Architect with expertise in developing, designing, and 
 ### PROFESSIONAL EXPERIENCE
 Accenture| Carmel, IN | 2024– 2025
 Accenture: Technical Architect Analyst
-•	Led a 20-person cross-functional team to deliver scalable business and technology solutions, aligning architecture with project goals and improving delivery efficiency by 15%.
-•	Collaborated with technical and client teams to design and implement data-driven workflows using Python, SQL (Teradata, Snowflake), and Informatica PowerCenter, reducing turnaround time by 20%.
-•	Managed onboarding and access provisioning across Jira, GitHub, AWS, Azure, CyberArk, and Cuda platforms, ensuring resources were fully equipped for project execution.
-•	Coordinated Agile sprint activities and facilitated Scrum ceremonies—including daily stand-ups, sprint planning, reviews, and retrospectives—achieving 100% on-time delivery.
+-	Led a 20-person cross-functional team to deliver scalable business and technology solutions, aligning architecture with project goals and improving delivery efficiency by 15%.
+-	Collaborated with technical and client teams to design and implement data-driven workflows using Python, SQL (Teradata, Snowflake), and Informatica PowerCenter, reducing turnaround time by 20%.
+-	Managed onboarding and access provisioning across Jira, GitHub, AWS, Azure, CyberArk, and Cuda platforms, ensuring resources were fully equipped for project execution.
+-	Coordinated Agile sprint activities and facilitated Scrum ceremonies—including daily stand-ups, sprint planning, reviews, and retrospectives—achieving 100% on-time delivery.
 •	Created and maintained key project documentation such as the Project Plan, Project Schedule, Status Reports, Issue/Action Log, RACI Matrix, and Change Request Log to support transparency and alignment with PMO standards.
 •	Developed automated Python scripts to perform source-to-target analyses and generate Excel-based deliverables, increasing reporting accuracy and efficiency by 30%.
 •	Produced PowerPoint presentations and visual reports for client stakeholders, communicating complex technical updates clearly and effectively.
