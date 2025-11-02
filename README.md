@@ -9,8 +9,8 @@ Results-driven Technical Architect with expertise in developing, designing, and 
 	Agile Methodologies		Highly Motivated 		Python & SQL
 
 ### PROFESSIONAL EXPERIENCE
-Accenture| Carmel, IN | 2024– 2025
-Accenture: Technical Architect Analyst
+# Accenture| Carmel, IN | 2024– 2025
+# Accenture: Technical Architect Analyst
 -	Led a 20-person cross-functional team to deliver scalable business and technology solutions, aligning architecture with project goals and improving delivery efficiency by 15%.
 -	Collaborated with technical and client teams to design and implement data-driven workflows using Python, SQL (Teradata, Snowflake), and Informatica PowerCenter, reducing turnaround time by 20%.
 -	Managed onboarding and access provisioning across Jira, GitHub, AWS, Azure, CyberArk, and Cuda platforms, ensuring resources were fully equipped for project execution.
@@ -21,11 +21,11 @@ Accenture: Technical Architect Analyst
 -	Ensured data integrity and governance by executing manual and automated ETL processes within LIMS MDaaS, improving data accuracy and compliance by 25%.
 -	Conducted 1:1 session with developers and analysts to address blockers, maintain alignment, and drive continuous improvement across sprints.
 -	Supported stakeholder engagement by documenting meeting outcomes, communicating action items, and maintaining accountability across all delivery teams.
-Accenture: Data & AI 101	Lead				  
+# Accenture: Data & AI 101	Lead				  
 -	Directed the Data & AI 101 program, leading a team of presenters to deliver engaging sessions on emerging AI and data topics to over 800 participants across the organization.
 -	Partnered with stakeholders to prioritize objectives, evaluate program outcomes, and align learning content with business goals and strategic initiatives.
 -	 Recruited and coordinated subject matter experts (SMEs), curated presentation topics, and organized event logistics to enhance learning engagement and knowledge sharing.
-Accenture: Inclusion & Diversity (I&D) Technology Development Program Lead
+# Accenture: Inclusion & Diversity (I&D) Technology Development Program Lead
 -	Led Inclusion & Diversity initiatives by organizing programs, fostering awareness, and presenting in front of over 500 participants to promote engagement across teams and business units.
 -	Partnered with leadership and colleagues to promote an inclusive culture, support professional development, and drive participation in companywide I&D efforts
 Amtrak| Beech Grove IN | 2011– 2024
