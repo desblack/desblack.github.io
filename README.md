@@ -28,7 +28,7 @@ Results-driven Technical Architect with expertise in developing, designing, and 
 ##### Accenture: Inclusion & Diversity (I&D) Technology Development Program Lead
 -	Led Inclusion & Diversity initiatives by organizing programs, fostering awareness, and presenting in front of over 500 participants to promote engagement across teams and business units.
 -	Partnered with leadership and colleagues to promote an inclusive culture, support professional development, and drive participation in companywide I&D efforts
-Amtrak| Beech Grove IN | 2011– 2024
+##### Amtrak| Beech Grove IN | 2011– 2024
 ##### Amtrak, Beech Grove, IN: Senior Technical Engineer Trainer
 -	Developed and delivered comprehensive technical and safety training programs, ensuring all instruction and operations complied with CFR49 Parts 209, 218, 228, 229, 232, 236, and 238.
 -	Managed employees for periods of one month or more during intensive training and onboarding programs, increasing workforce readiness and retention by 35%.
@@ -42,7 +42,7 @@ Amtrak| Beech Grove IN | 2011– 2024
 -	Evaluated training outcomes using performance metrics and participant feedback, implementing improvements that boosted compliance audit results by 45%.
 -	Served as Subject Matter Expert (SME) in developing and revising technical curricula to align with Amtrak’s operational, mechanical, and safety standards.
 ##### Arizona State University |Tempe, Arizona Remote| 2020– 2021
-Augmented Reality Developer, Meteor Studio (XR at ASU Initiative)
+##### Augmented Reality Developer, Meteor Studio (XR at ASU Initiative)
 -	Collaborated with a 12-person interdisciplinary team to design, develop, and launch the ASU Commencement App, the university’s first augmented reality (AR) graduation experience.
 -	Developed interactive 3D scenes enabling users to virtually stand with President Crow and participate in the commencement ceremony through immersive AR interactions.
 -	Recognized by ASU News for delivering an innovative, student-built experience that redefined virtual graduation for the Fall 2020 Commencement.
