@@ -1,14 +1,14 @@
-## ENGINEERING MANAGEMENT | CERTIFIED SCURM MASTER |TECHNICAL ARCHITECT | DATA SCIENTIST 
+### ENGINEERING MANAGEMENT | CERTIFIED SCURM MASTER |TECHNICAL ARCHITECT | DATA SCIENTIST 
 Results-driven Technical Architect with expertise in developing, designing, and implementing AI/ML, data engineering, and cloud-based solutions that streamline workflows and improve data accuracy. Experienced in leading cross-functional teams to build scalable systems that align with business goals and deliver measurable results. Skilled in Python, SQL, ETL frameworks, and cloud technologies, with a focus on automation, governance, and compliance.
 
-## CORE COMPETENCIES
+### CORE COMPETENCIES
 -	Mechanical Aptitude 	-	Prompt Engineering	- AI/Machine Learning Engineering
 -	Team Leadership 	- Preventative Maintenance	-	SAFE Scrum Master
 -	Technical Architecture	-	Shareholder Engagement	- Data science
 -	Public Speaking	-	Budget Management	- Continuous Improvement
 -	Agile Methodologies	-	Highly Motivated 	-	Python & SQL
 
-## PROFESSIONAL EXPERIENCE
+### PROFESSIONAL EXPERIENCE
 ##### Accenture| Carmel, IN | 2024– 2025
 ##### Accenture: Technical Architect Analyst
 -	Led a 20-person cross-functional team to deliver scalable business and technology solutions, aligning architecture with project goals and improving delivery efficiency by 15%.
@@ -46,7 +46,7 @@ Augmented Reality Developer, Meteor Studio (XR at ASU Initiative)
 -	Collaborated with a 12-person interdisciplinary team to design, develop, and launch the ASU Commencement App, the university’s first augmented reality (AR) graduation experience.
 -	Developed interactive 3D scenes enabling users to virtually stand with President Crow and participate in the commencement ceremony through immersive AR interactions.
 -	Recognized by ASU News for delivering an innovative, student-built experience that redefined virtual graduation for the Fall 2020 Commencement.
-## EDUCATION
+### EDUCATION
 - M.S. Computer Science                                                                    May 2027
 Arizona State University, Tempe, AZ
 - M.B.A, Master of Business Administration Data Analytics 		                 			       August 2025
@@ -54,7 +54,7 @@ University of Southern Indiana, Evansville, IN
 - B.S. Electrical Engineering		              				                                     May 2023            
 Arizona State University, Tempe, AZ 
 
-## ADDITIONAL CREDENTIALS
+### ADDITIONAL CREDENTIALS
 Design and Modeling Tools: SOLIDWORKS, LabVIEW, MATLAB, Microsoft Office, Creo Parametric, Visio , Power BI, Tableau
 Programming: Verilog, System Verilog, C, C#, Java, C++, Unity, Python, SQL (Teradata, Snowflake), 
 Machine Learning Data Engineering & Cloud: LabVantage LIMS, AWS S3, Apache Airflow, Informatica PowerCenter
