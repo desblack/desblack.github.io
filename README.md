@@ -1,0 +1,1 @@
+### ENGINEERING MANAGEMENT | CERTIFIED SCURM MASTER |TECHNICAL ARCHITECT | DATA SCIENTIST <img width="468" height="37" alt="image" src="https://github.com/user-attachments/assets/721a69a4-e991-490f-93dc-d9d3aa8ef69d" />
